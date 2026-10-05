@@ -1,0 +1,19 @@
+Six commands, run from the repo root in PowerShell. The empty public repo
+samagids/awing-legal already exists, so this is just the push:
+
+    cd site_legal
+    git init -b main
+    git add .
+    git commit -m "Public privacy and support pages for Awing Learning"
+    git remote add origin https://github.com/samagids/awing-legal.git
+    git push -u origin main
+
+Then in the repo's Settings > Pages, set Source = "Deploy from a branch",
+Branch = main, folder = / (root), and Save. The first build takes a minute or
+two. Check:
+
+    https://samagids.github.io/awing-legal/privacy
+    https://samagids.github.io/awing-legal/support
+
+NOTE: this folder is its own git repository, separate from the app repo. The
+app repo's .gitignore excludes it so the two never get mixed up.

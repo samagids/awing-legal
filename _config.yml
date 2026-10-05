@@ -1,0 +1,10 @@
+# GitHub Pages site for Awing Learning's public policy and support pages.
+#
+# This repository exists ONLY so these two pages have a public HTTPS URL.
+# The app's source stays in the private samagids/awing-learning repo:
+# GitHub Pages needs a public repo on the free plan, and publishing the whole
+# app repo would also publish the dictionary PDFs, the family recordings and
+# the Firestore rules.
+title: Awing Learning
+description: Privacy policy and support for the Awing Learning app
+theme: jekyll-theme-minimal
