@@ -76,7 +76,7 @@ Firebase Firestore data is encrypted in transit (HTTPS) and at rest. Access is c
 
 ### Data Retention
 
-Your cloud data persists as long as your account is active. You can request deletion of all cloud data at any time by contacting samagids@gmail.com.
+Your cloud data persists as long as your account is active. You can delete it yourself at any time, from inside the app, without contacting anyone: **Parent Settings > Delete Account > Delete My Account**. Deletion is immediate and permanent.
 
 ---
 
@@ -150,15 +150,33 @@ You can access your learning progress and settings within the app at any time. I
 
 You can update your profile information and preferences within the app's Settings screen.
 
-### Delete Your Data
+### Delete Your Account and Data
 
-You have the right to request deletion of all your personal data, including:
+You can delete your account and everything stored for it from inside the
+app, at any time, without asking anyone:
 
-- Your Google account link and profile
-- All cloud-stored learning progress
-- Analytics events associated with your device
+**Parent Settings > Delete Account > Delete My Account**
 
-To request data deletion, contact samagids@gmail.com with your request.
+Deleting your account permanently removes:
+
+- Your sign-in account itself (Google or Apple)
+- Every child profile on it, with their XP, lessons, quizzes and levels
+- Your parent PIN, guardian contacts and notification settings
+- Your cloud backup
+- Study sets you created, and your entry on any class list you were
+  added to by another teacher
+
+**Recordings you donated.** If you have recorded Awing words to help build
+the app's audio, the deletion screen asks what should happen to them. If
+you choose to keep them, the clips stay in the Awing corpus but your name
+and email address are removed from them. If you choose to delete them, the
+recordings are deleted too. Either way, nothing identifying you remains.
+
+Deletion is immediate and permanent and cannot be undone. There is no
+waiting period and no account to reactivate afterwards.
+
+If you have already uninstalled the app and cannot sign in to complete
+this, write to samagids@gmail.com and we will delete the account for you.
 
 ### Opt Out of Analytics
 
